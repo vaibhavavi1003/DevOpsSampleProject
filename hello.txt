@@ -1,2 +1,9 @@
 Welcome to DevOps Lab!
 Welcome to DevOps Lab2!
+
+what plugins would be used for these stages?
+compile
+code review
+test
+package
+deploy
